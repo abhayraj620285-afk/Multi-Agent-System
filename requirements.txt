@@ -1,0 +1,42 @@
+# Core LLM + LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# LCEL / Runnables support (included but keep updated)
+langchainhub
+
+# Mistral API
+mistralai
+
+# Tavily Search Tool
+tavily-python
+
+# Web scraping
+beautifulsoup4
+requests
+lxml
+
+# Environment management
+python-dotenv
+
+# Async + HTTP (important for agents/tools)
+httpx
+aiohttp
+
+# Data handling
+pydantic
+typing-extensions
+
+# Logging / debugging
+rich
+
+# Optional (recommended for better parsing & dev)
+tqdm
+
+# If you plan to build UI later (optional)
+streamlit
+
+# If using vector store later (optional but useful)
+faiss-cpu
