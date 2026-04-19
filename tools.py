@@ -34,5 +34,5 @@ def scrape_url(url : str) -> str:
     except Exception as e:
         return f"Could not scrape URL: {str(e)}"    
     
-print(scrape_url.invoke("https://www.thehindu.com/news/national/womens-quota-should-be-implemented-at-current-strength-of-parliament-activists/article70861586.ece"))    
+
 
